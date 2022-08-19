@@ -4,34 +4,21 @@
 
 I am an experienced software developer. I can convert PSD, XD, and Figma to HTML. What's more, I can make any website dynamic with PHP Laravel.
 
+Skills: PHP/ Laravel / JS /Bootstrap/ HTML / CSS
 
-Skills: PHP / Laravel / JS / HTML / CSS /SASS /
-
-- 🔭 I’m currently working on a Vendor Website 
-- 🌱 I’m currently learning PHP, Laravel 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with a job opportunity 
-- 💬 Ask me about Web Developer 
-- 📫 How to reach me: mdyaminmia2@gmail.com 
-- 😄 Pronouns: Problem-solving  
-- ⚡ Fun fact: coding, righting, problem solving 
+- 🔭 I’m currently working on PHP Laravel Learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/activeyamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/activeyamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](Jackpot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-yamin-mia-98a294214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fullstackdeveloperbdyamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/fdyaminmia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FDYaminMia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/fdyaminmia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16881748/md-yamin-mia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://activeyamin.github.io/Eventoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/activeyamin)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobepremierepro.svg' alt='adobepremierepro' height='40'>](https://user-images.githubusercontent.com/6661165/91642962-6333e600-ea6a-11ea-83af-e371e996bfa6.png)  
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=activeyamin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/activeyamin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activeyamin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/activeyamin&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=activeyamin&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/activeyamin)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=activeyamin)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/activeyamin)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/activeyamin)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/activeyamin)  
+![Profile views](https://gpvc.arturio.dev/activeyamin)  
