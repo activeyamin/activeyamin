@@ -4,7 +4,7 @@
 
 I love Web Design and Development. I can Convert PSD, Figma, Sketch, & XD to HTML. And I can Develop Personal, E-commerce, and seller Websites with PHP, and Laravel, I have 3 years of Experience in this field. I've even completed 50+ projects for family and friends. Now I want to further develop my career by Working in Different Marketplaces and Companies.
 
-Skills: Problem Solving / PHP / Laravel / MySql / Bootstrap / Tailwind / JeQuery / JS / HTML / CSS / SASS
+Skills: Problem Solving / PHP / Laravel / MySql / Wordpress CMS / Bootstrap / Tailwind / JeQuery / JS / HTML / CSS / SASS
 
 - 🔭 I’m currently working on Fiverr, Freelancer, Upwork, & Others . 
 - 🌱 I’m currently learning PHP Laravel Tailwind & Others Skills... 
