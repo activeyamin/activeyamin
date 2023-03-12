@@ -2,7 +2,7 @@
 #### I'm a Frontend Web Developer.
 ![I'm a Frontend Web Developer.](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/298612775_1032178847559134_5649362215551018172_n.jpg?stp=dst-jpg_p960x960&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=NPU54zYpd3cAX-Xcasg&_nc_oc=AQmkFIseZlkfhBWYlpDPYWmF-HX61mgxoJpmPEhNrQ_v5x2q5OcmKrMa_iuFSPAOXOo&_nc_ht=scontent.fdac138-1.fna&oh=00_AT_6FmWdDMPdiQVCjuhVh4TX2nlQ7jNqR5mxsynOznh8sA&oe=63386489)
 
-I love Web Design and Development. I can Convert PSD, Figma, Sketch, & XD to HTML. And I can Develop Personal, E-commerce, and seller Websites with PHP, and Laravel, I have 3 years of Experience in this field. I've even completed 50+ projects for family and friends. Now I want to further develop my career by Working in Different Marketplaces and Companies. Even, Alhamdulillah, I have some good qualities. For example, I can control myself in a big problem. And love to constantly learn and update myself.
+I love Web Design and Development. I can Convert PSD, Figma, Sketch, & XD to HTML. And I can Develop Personal, E-commerce, and seller Websites with PHP, and Laravel, I have 4 years of Experience in this field. I've even completed 120+ projects for family and friends. Now I want to further develop my career by Working in Different Marketplaces and Companies. Even, Alhamdulillah, I have some good qualities. For example, I can control myself in a big problem. And love to constantly learn and update myself.
 
 Skills: Problem Solving / PHP / Laravel / MySql / Wordpress CMS / Bootstrap / Tailwind / JeQuery / JS / HTML / CSS / SASS
 
