@@ -3,13 +3,13 @@
 [with 5 + Years of Experience in this field.]
 https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/422817520_195846560286695_3143876190591848482_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_ohc=vmczvTwww5UAX8Ph-t9&_nc_ht=scontent.fdac24-1.fna&oh=00_AfDVh2cQ35sRVgRX0S9yOnPRgmZxYvhwj6rbjhxnwzGXRQ&oe=65E705E6
 
-I love Web Design and Development. I can Convert PSD, Figma, Sketch, & XD to HTML. My Services Corporate Business, Personal, Portfolios, Blogger, E-commerce, landing page, and others  Websites. I have 5 years of Experience in this field. I've even completed 215+ projects for Company, family and friends. Now I want to further develop my career by Working in Different Marketplaces and Companies. Even, Alhamdulillah, I have some good qualities. For example, I can control myself in a big problem. And love to constantly learn and update myself.
+"I am a Full Stack Web Developer based in Mohammadpur, Dhaka, with proficiency in a wide range of Frontend and Backend technologies. On the Frontend, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks, as well as in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
 
-Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery /  Wordpress CMS / PHP / Laravel / OOP / MySql DB / Server Maintenance / Graphic Design / MS word / Photoshop / Canva / ChatGPT / and Excellent Typing...
+Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS word / Photoshop / Canva / ChatGPT / and Excellent Typing...
 
-- 🔭 I’m currently working on Fiverr, Freelancer, Upwork, & Others . 
+- 🔭 I’m currently working on Fiverr, Freelancer, Upwork, & Others. 
 - 🌱 I’m currently learning React JS, & Others Skills... 
-- 👯 I’m looking to collaborate on IT Related. 
+- 👯 I’m looking to collaborate on IT Technology Related. 
 - 🤔 I’m looking for help with The More to Learn Opportunity.   
 - 💬 Ask me about Web Design & Development Related. 
 - 📫 How to reach me: Facebook, WhatsApp, Twitter, LinkedIn, Instagram.  
