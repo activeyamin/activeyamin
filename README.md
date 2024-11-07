@@ -2,7 +2,7 @@
 #### I'm a Responsive Web Designer & PHP, Laravel, MySQL Backend Developer.
 [with 5 + Years of experiences in this field.]
 
-"I'm a Responsive Web Designer & PHP, Laravel, MySQL Backend Developer.Base in Mohammadpur, Dhaka, with Proficiency in a wide range of Frontend and Backend Technologies. On the Frontend, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks, as well as in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
+"Base in Mohammadpur, Dhaka, with Proficiency in a wide range of Frontend and Backend Technologies. On the Frontend, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks, as well as in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
 
 Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS word / Photoshop / Canva / ChatGPT / and Excellent Typing...
 
