@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yamin
 #### I'm a Responsive Web Designer & PHP, Laravel, and MySQL Backend Developer.
-with 5 + Years of experience in this field.
+with 5 more years of experience in this field.
 
 "Based in Mohammadpur, Dhaka, with proficiency in a wide range of frontend and backend technologies, On the front end, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks and in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
 
