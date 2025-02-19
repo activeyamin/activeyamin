@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Yamin
-#### I'm a Responsive Web Designer & PHP, Laravel, MySQL Backend Developer.
-[with 5 + Years of experiences in this field.]
+#### I'm a Responsive Web Designer & PHP, Laravel, and MySQL Backend Developer.
+[with 5 + Years of experience in this field.]
 
-"Base in Mohammadpur, Dhaka, with Proficiency in a wide range of Frontend and Backend Technologies. On the Frontend, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks, as well as in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
+"Based in Mohammadpur, Dhaka, with proficiency in a wide range of frontend and backend technologies, On the front end, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks and in utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
 
-Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS word / Photoshop / Canva / ChatGPT / and Excellent Typing...
+Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS Word / Photoshop / Canva / ChatGPT / and Excellent Typing...
 
-- 🔭 I’m currently working on Webcodecare as a Laravel Developer remotely, & Fiverr, Freelancer, Upwork, Others...
-- 🌱 I’m currently learning React JS, & Others Skills... 
+- 🔭 I’m currently working on Europguideint limited as an It Executive, & Fiverr, Freelancer, Upwork, and Others...
+- 🌱 I’m currently learning React JS, & other skills... 
 - 👯 I’m looking to collaborate on IT Technology Related. 
 - 🤔 I’m looking for help with The More to Learn Opportunity.   
 - 💬 Ask me about Web Design & Development Related. 
