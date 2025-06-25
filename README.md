@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Yamin
-#### I'm a 💻 Responsive Web Designer | PHP & Laravel Expert | MySQL Backend Developer.
+#### I'm a 💻 Responsive Web and Grapich Designer | PHP & Laravel Expert | MySQL Backend Developer.
 with 5 more years of experience in this field.
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/482214876_1138416928031428_4728954175476207425_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFWuZ5Bsj2GnM21Beem2aNYorGCK19MvmWisYIrX0y-ZR04clNKAN_IQ2861qA8D5j68ONBf0cwKi6odmwZa_fe&_nc_ohc=ZPD2kTy5uJsQ7kNvwEyZCKC&_nc_oc=AdkRJE-qbgqh133FngjHAn4VsLY-hL4HnvUNziWmBIHUT7K25rGT2lx0-4K0vMBGSAM&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=uZhQtk6CobRRVCIY57lHPg&oh=00_AfGBtLOUpkYth7yBsgfC3JfNz8P3romyoKBGH72fqi05Ug&oe=67FC92F4)
