@@ -4,7 +4,26 @@ with 5 more years of experience in this field.
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/482214876_1138416928031428_4728954175476207425_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFWuZ5Bsj2GnM21Beem2aNYorGCK19MvmWisYIrX0y-ZR04clNKAN_IQ2861qA8D5j68ONBf0cwKi6odmwZa_fe&_nc_ohc=ZPD2kTy5uJsQ7kNvwEyZCKC&_nc_oc=AdkRJE-qbgqh133FngjHAn4VsLY-hL4HnvUNziWmBIHUT7K25rGT2lx0-4K0vMBGSAM&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=uZhQtk6CobRRVCIY57lHPg&oh=00_AfGBtLOUpkYth7yBsgfC3JfNz8P3romyoKBGH72fqi05Ug&oe=67FC92F4)
 
-"Based in Mohammadpur, Dhaka, with proficiency in various front-end and back-end technologies. On the front end, I am skilled in HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript. My expertise extends to Backend technologies, including MySQL database management, server maintenance, version control using Git/GitHub, and content management systems like WordPress. I am proficient in PHP/OOP and Laravel/MVC frameworks and utilizing Ajax for asynchronous web applications. With a strong focus on problem-solving, I am committed to delivering high-quality solutions. Additionally, I am devoted to my faith in Islam."
+"💻 I’m a Responsive Web & Graphic Designer | PHP Laravel Expert | MySQL Backend Developer with over 5 years of hands-on experience in both frontend and backend development.
+
+On the frontend, I work with:
+✨ HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript.
+
+On the backend, I’m skilled in:
+🛠️ PHP (OOP), Laravel (MVC), MySQL database management, server maintenance, version control with Git/GitHub, and CMS platforms like WordPress. I also use AJAX for building smooth, asynchronous web applications.
+
+🎨 As a Graphic Designer, I create:
+
+Banners, Posters
+
+Brochures, ID Cards
+
+Visiting Cards, Logos
+
+Social Media Designs and more.
+
+With a passion for clean code, creative design, and practical problem-solving, I always strive to deliver high-quality, user-friendly digital solutions.
+📿 I'm also devoted to my faith in Islam, which guides my integrity and work ethic."
 
 Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS Word / Photoshop / Canva / ChatGPT / and Excellent Typing...
 
