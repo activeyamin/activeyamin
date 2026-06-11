@@ -1,55 +1,109 @@
-### Hi there 👋, I'm Yamin
-#### I'm a 💻 Responsive Web and Graphic Designer | PHP & Laravel Expert | MySQL Backend Developer.
-With 5 more years of experience in this field.
+# 👋 Hi, I'm MD Yamin
 
-![I am GitHub Readme Generator's creator](https://www.facebook.com/photo/?fbid=122140926740573202&set=a.122103465794573202)
+### 💻 Responsive Web Designer & Developer | PHP Laravel Developer | MySQL Backend Developer
 
-"💻 I’m a Responsive Web & Graphic Designer | PHP Laravel Expert | MySQL Backend Developer with over 5 years of hands-on experience in both frontend and backend development.
+<img src="https://raw.githubusercontent.com/activeyamin/activeyamin/main/profile.jpg" width="100%" alt="MD Yamin Banner"/>
 
-On the frontend, I work with:
-✨ HTML, CSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript.
+## 🚀 About Me
 
-On the backend, I’m skilled in:
-🛠️ PHP (OOP), Laravel (MVC), MySQL database management, server maintenance, version control with Git/GitHub, and CMS platforms like WordPress. I also use AJAX for building smooth, asynchronous web applications.
+I'm a passionate Web Designer and Developer with over 5 years of experience in creating responsive, user-friendly, and dynamic websites.
 
-🎨 As a Graphic Designer, I create:
+I specialize in frontend development, backend development, WordPress customization, server management, and graphic design. My goal is to build high-quality digital solutions that deliver excellent user experiences.
 
-Banners, Posters
+Currently working as an IT Executive while continuously learning modern web technologies and improving my professional skills.
 
-Brochures, ID Cards
+---
 
-Visiting Cards, Logos
+## 🛠️ Technical Skills
 
-Social Media Designs and more.
+### Frontend Development
 
-With a passion for clean code, creative design, and practical problem-solving, I always strive to deliver high-quality, user-friendly digital solutions.
-📿 I'm also devoted to my faith in Islam, which guides my integrity and work ethic."
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+* JavaScript
+* jQuery
 
-Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS Word / Photoshop / Canva / ChatGPT / and Excellent Typing...
+### Backend Development
 
-- 🔭 I’m currently working at Europguideint Limited as an IT Executive, & Fiverr, Freelancer, Upwork, and Others...
-- 🌱 I’m currently learning React JS & other skills... 
-- 👯 I’m looking to collaborate on IT-related technology. 
-- 🤔 I’m looking for help with The More to Learn Opportunity.   
-- 💬 Ask me about Web Design & Development Related. 
-- 📫 How to reach me: Facebook, WhatsApp, Twitter, LinkedIn, Instagram.  
-- 😄 Pronouns: In addition, I'm a core PHP Developer. 
+* PHP (OOP)
+* Laravel (MVC)
+* MySQL
+* AJAX
+* REST API
 
+### CMS & Tools
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/activeyamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/PHP, Laravel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-yamin-mia-98a294214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fullstackdeveloperyamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FDYaminMia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/edit/19706354)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://activeyamin.github.io/Hookha/)  
+* WordPress
+* Git & GitHub
+* cPanel
+* Server Maintenance
 
-[<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> ](https://pixabay.com/photos/laptop-notebook-cellphone-computer-1839876/)
+### Graphic Design
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=activeyamin)](https://github.com/ryo-ma/github-profile-trophy)
+* Adobe Photoshop
+* Canva
+* Social Media Design
+* Banner Design
+* Logo Design
+* Business Card Design
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=activeyamin)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=activeyamin&show_icons=true&count_private=true)  
+## 💼 Current Position
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=activeyamin)  
+🔭 IT Executive at Euroguide International Ltd.
 
-![GitHub metrics](https://metrics.lecoq.io/activeyamin)  
+🌱 Currently Learning:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=activeyamin)  
+* React.js
+* Modern JavaScript
+* Advanced Laravel
 
-![Profile views](https://gpvc.arturio.dev/activeyamin)  
+👯 Open to Collaboration:
+
+* Web Design Projects
+* Laravel Projects
+* WordPress Development
+* Open Source Projects
+
+💬 Ask Me About:
+
+* Web Design
+* Laravel Development
+* WordPress
+* PHP & MySQL
+* Hosting & Server Management
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/activeyamin
+* LinkedIn: https://www.linkedin.com/in/md-yamin-mia-98a294214/
+* Facebook: https://www.facebook.com/fullstackdeveloperyamin
+* Twitter/X: https://twitter.com/FDYaminMia
+* Portfolio: https://activeyamin.github.io/Hookha/
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=activeyamin\&show_icons=true\&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=activeyamin)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=activeyamin\&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=activeyamin)
+
+---
+
+## 📿 Personal Values
+
+Integrity, continuous learning, professionalism, and dedication are the principles that guide both my personal and professional life.
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
