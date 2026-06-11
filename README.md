@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://graph.facebook.com/122140926740573202/picture?type=large" alt="Yamin's Cover Photo" width="100%" style="border-radius: 8px;" />
+</p>
+
+---
+
 ### 🌟 About Me
 "💻 I’m a Responsive Web Designer & Full Stack PHP Developer | Laravel & WordPress Specialist, with over 5 years of hands-on experience in both frontend and backend development. 
 
