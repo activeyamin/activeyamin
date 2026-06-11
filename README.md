@@ -54,11 +54,11 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/activeyamin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a> 
-  <a href="https://linkedin.com/in/md-yamin-mia-98a294214" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
-  <a href="https://www.facebook.com/fullstackdeveloperyamin" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a> 
-  <a href="https://twitter.com/FDYaminMia" target="_blank"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"></a> 
+  <a href="https://www.linkedin.com/in/mdyaminmia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a> 
+  <a href="https://www.facebook.com/yamincoding/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a> 
+  <a href="https://twitter.com/learnwithyamin" target="_blank"><img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"></a> 
   <a href="https://stackoverflow.com/users/19706354" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"></a> 
-  <a href="https://activeyamin.github.io/Hookha/" target="_blank"><img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge" alt="website"></a>
+  <a href="https://webcodesource.com/" target="_blank"><img src="https://img.shields.io/badge/Website-🌐-blue?style=for-the-badge" alt="website"></a>
 </p>
 
 ---
