@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Yamin
 
-#### 💻 Responsive Web & Graphic Designer | PHP & Laravel Expert | MySQL Backend Developer
+#### 💻 Responsive Web Designer & Full Stack PHP Developer | Laravel & WordPress Specialist
 
 ---
 
 ### 🌟 About Me
-"💻 I’m a Responsive Web & Graphic Designer | PHP Laravel Expert | MySQL Backend Developer with over 5 years of hands-on experience in both frontend and backend development. 
+"💻 I’m a Responsive Web Designer & Full Stack PHP Developer | Laravel & WordPress Specialist, with over 5 years of hands-on experience in both frontend and backend development. 
 
 🎨 As a Graphic Designer, I create Banners, Posters, Brochures, ID Cards, Visiting Cards, Logos, and Social Media Designs. With a passion for clean code, creative design, and practical problem-solving, I always strive to deliver high-quality, user-friendly digital solutions.
 
@@ -18,7 +18,7 @@
 * **🇸🇦 Waiter (Current)**
     * *5-Star Hotel, Al Safa Tower One (Clock Tower, Makkah Haram, Saudi Arabia)* — Present
 * **🏢 Web & Promotions Manager**
-    * *EuroGuide International Ltd. (Dhaka, Bangladesh)* — 2024 - 2025
+    * *EuroGuide International Ltd. (Dhaka, Bangladesh)* — 2024 - 2026
     * Managed website design, development, maintenance, event video editing, graphic design, and social media marketing.
 * **💻 Laravel Developer (Remote)**
     * *Web Code Care (Dhaka, Bangladesh)* — 2023 - 2024
