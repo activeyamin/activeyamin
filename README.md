@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://graph.facebook.com/122140926740573202/picture?type=large" alt="Yamin's Cover Photo" width="100%" style="border-radius: 8px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yamin%20Mia&subtitle=Full%20Stack%20PHP%20/%20Laravel%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Yamin's Banner" width="100%" />
 </p>
 
 ---
