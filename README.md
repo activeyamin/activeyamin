@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Yamin
-#### I'm a 💻 Responsive Web and Grapich Designer | PHP & Laravel Expert | MySQL Backend Developer.
-with 5 more years of experience in this field.
+#### I'm a 💻 Responsive Web and Graphic Designer | PHP & Laravel Expert | MySQL Backend Developer.
+With 5 more years of experience in this field.
 
-![I am GitHub Readme Generator's creator](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/482214876_1138416928031428_4728954175476207425_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFWuZ5Bsj2GnM21Beem2aNYorGCK19MvmWisYIrX0y-ZR04clNKAN_IQ2861qA8D5j68ONBf0cwKi6odmwZa_fe&_nc_ohc=ZPD2kTy5uJsQ7kNvwEyZCKC&_nc_oc=AdkRJE-qbgqh133FngjHAn4VsLY-hL4HnvUNziWmBIHUT7K25rGT2lx0-4K0vMBGSAM&_nc_zt=23&_nc_ht=scontent.fdac24-1.fna&_nc_gid=uZhQtk6CobRRVCIY57lHPg&oh=00_AfGBtLOUpkYth7yBsgfC3JfNz8P3romyoKBGH72fqi05Ug&oe=67FC92F4)
+![I am GitHub Readme Generator's creator](https://www.facebook.com/photo/?fbid=122140926740573202&set=a.122103465794573202)
 
 "💻 I’m a Responsive Web & Graphic Designer | PHP Laravel Expert | MySQL Backend Developer with over 5 years of hands-on experience in both frontend and backend development.
 
@@ -27,9 +27,9 @@ With a passion for clean code, creative design, and practical problem-solving, I
 
 Skills: Problem Solving / HTML / CSS / SASS / Bootstrap / Tailwind / JQuery / Wordpress CMS / PHP / Laravel / OOP / MySql DB / Ajax / Server Maintenance / Graphic Design / MS Word / Photoshop / Canva / ChatGPT / and Excellent Typing...
 
-- 🔭 I’m currently working on Europguideint limited as an It Executive, & Fiverr, Freelancer, Upwork, and Others...
-- 🌱 I’m currently learning React JS, & other skills... 
-- 👯 I’m looking to collaborate on IT Technology Related. 
+- 🔭 I’m currently working at Europguideint Limited as an IT Executive, & Fiverr, Freelancer, Upwork, and Others...
+- 🌱 I’m currently learning React JS & other skills... 
+- 👯 I’m looking to collaborate on IT-related technology. 
 - 🤔 I’m looking for help with The More to Learn Opportunity.   
 - 💬 Ask me about Web Design & Development Related. 
 - 📫 How to reach me: Facebook, WhatsApp, Twitter, LinkedIn, Instagram.  
